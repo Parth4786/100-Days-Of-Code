@@ -1,4 +1,5 @@
 DAY 1
+DATE - 9/1/2022
 Today the project was to create a band name by taking inputs from user for their pet's name and city in which they grew up in.
 This project used input statement of python special character '\n' and string concatentation.
 As I already know python basics and syntax this was good practice to reinforce my basics and logic building.
@@ -6,3 +7,9 @@ To tackle this problem I started with plan of action of what will be needed and 
 In this way I want to create a habit of plan of action before tackling a problem and writing a log of how did i go about it so whenever I refer I can look for mistakes and come up with better efficient solutions.
 
 DAY 2
+DATE - 10/1/2022
+Today project was to create a tip calculator which adds total bill amount with tip percentage and then split it among the people all and return individual amount a person has to pay,all this from user input.
+This project was based on mathematical operations 
+Learned new method of round which rounds the digits after decimal by taking integer and till what we have to round as arguments
+Plan of action was to take required inputs from user ue percentage formula to calculate tip amount and then add it to bill amount and divided it by people splitting it.
+Some of the features we can add in it is we can create it as bill generator with all the writing which we generally see on bills and we can try to add gst too.
